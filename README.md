@@ -5,6 +5,7 @@
 
 - 🔭 We're electrifying stuff at [Roam Electric](https://www.roam-electric.com/) an E-Mobility company.
 - 🌱 I’m currently learning Scala.
+- ⚡ And in case you're wondering, at this very moment I'm on top of a mountain getting instructions from a burning bush. 
 - 📫 You can check out my [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alfred-ojuku-0bb005176).
 <!--
 **alfred-ojuku/alfred-ojuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
