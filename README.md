@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👊🏿
 
+## I'm [Alfred Ojuku Okinyi](https://alfred-ojuku.github.io/)
+### You must be looking for me. Glad you found me 😁
 <!--
 **alfred-ojuku/alfred-ojuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
