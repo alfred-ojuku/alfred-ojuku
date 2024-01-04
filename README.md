@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Roam Electric](https://www.roam-electric.com/) an E-Mobility company as a Data Engineer.
 - 🌱 I’m currently learning Scala.
-- 📫 You can check out my [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alfred-ojuku-0bb005176.
+- 📫 You can check out my [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alfred-ojuku-0bb005176).
 <!--
 **alfred-ojuku/alfred-ojuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
