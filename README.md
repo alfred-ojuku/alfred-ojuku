@@ -3,7 +3,7 @@
 ## I'm [Alfred Ojuku Okinyi](https://alfred-ojuku.github.io/)
 ### You must be looking for me. Glad you found me 😁
 
-- 🔭 I’m currently working at [Roam Electric](https://www.roam-electric.com/) an E-Mobility company as a Data Engineer.
+- 🔭 We're electrifying stuff at [Roam Electric](https://www.roam-electric.com/) an E-Mobility company.
 - 🌱 I’m currently learning Scala.
 - 📫 You can check out my [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alfred-ojuku-0bb005176).
 <!--
